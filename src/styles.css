@@ -1,0 +1,29 @@
+* {
+  font-size: 15px;
+  font-family: sans-serif;
+  outline: none;
+}
+
+div {
+  padding: 5px;
+}
+
+button {
+  background-color: aliceblue;
+  border: none;
+  cursor: pointer;
+  padding: 7px;
+  margin: 0 5px;
+}
+
+input {
+  padding: 5px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  list-style: none;
+}
